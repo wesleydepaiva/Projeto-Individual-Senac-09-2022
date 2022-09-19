@@ -1,0 +1,67 @@
+@media (min-width: 992px) {
+    .header {
+        display: flex;
+        flex-direction: row;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .header-right {
+        float: right;
+        display: flex;
+    }
+
+    .header img {
+        display: flex;
+        margin-left: 0px;
+    }
+
+    .dobra1-home {
+        display: flex;
+        flex-direction: row;
+        padding-left: 40px;
+        padding-right: 40px;
+        margin: auto;
+    }
+
+    .dobra1-home h1 {
+        font-size: 50px;
+        text-align: left;
+        padding-bottom: 10px;
+    }
+
+    .dobra1-home h3 {
+        font-size: 22px;
+        text-align: left;
+        padding-left: 15px;
+        padding-bottom: 14px;
+    }
+
+    .dobra2-sobremim {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .nomeinfo {
+        padding-left: 20px;
+    }
+
+    .dobra2-sobremim img {
+        padding-bottom: 15px;
+    }
+
+    .nomeinfo p {
+        font-size: 22px;
+    }
+
+    .dobra3-hobbies {
+        display: flex;
+    }
+
+    .footer{
+        padding-top: 15px;
+    }
+}
